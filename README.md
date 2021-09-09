@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey! ✌
 
-<!--
-**JacksonSchacher/JacksonSchacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Jackson, I am a full-stack developer. I have a BS in Virtual Technology and Design from University of Idaho. I enjoy gettting out in nature and playing boardgames. 
 
-Here are some ideas to get you started:
+### I Create
+- promotional content 
+- icons 
+- logos
+- motion design
+- animations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focused On
+- HTML/CSS
+- JavaScript
+- Angular
+- MVC Design
+- SCRUM 
+
+#### Feel free to contact me 
+
+[LinkedIn](https://www.linkedin.com/in/jackson-schacher/)
+
+[Email](jschacher8@gmail.com)
+
