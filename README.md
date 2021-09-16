@@ -2,6 +2,9 @@
 
 My Name is Jackson, I am a full-stack developer. I have a BS in Virtual Technology and Design from University of Idaho. I enjoy gettting out in nature and playing boardgames. 
 
+![JS Vid000](https://user-images.githubusercontent.com/84756850/133534941-1d369db5-0e21-4d23-89b1-fd2bf409ba90.gif)
+
+
 ### I Create
 - promotional content 
 - icons 
